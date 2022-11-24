@@ -1,6 +1,6 @@
 sim lab
 - Saya akan membuat konten untuk manajemen informasi laboratorium
 - Berbasis website
-- Isinya dokumen tentang laboratorium
 - Website ini hanya diperuntukkan kepada pegawai lab yang berwenang
 - Belajar sendiri dan membuat sendiri
+- Website sudah jadi
