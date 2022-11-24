@@ -1,0 +1,4 @@
+sim lab
+- Saya akan membuat konten untuk manajemen informasi laboratorium
+- Berbasis website
+- Isinya dokumen tentang laboratorium
